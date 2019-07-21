@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "361551192288",
+    "firebase_url": "https://itcinfotech-e8601.firebaseio.com",
+    "project_id": "itcinfotech-e8601",
+    "storage_bucket": "itcinfotech-e8601.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361551192288:android:d12df26e344fff8d",
+        "android_client_info": {
+          "package_name": "com.example.itcinfotech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361551192288-hh1apauev10hno48q4h1mnbqgu7m5637.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.itcinfotech",
+            "certificate_hash": "191b04931216041af294840628f31ca09e020638"
+          }
+        },
+        {
+          "client_id": "361551192288-k8cvnv4m59luh6b8vbmrqpd7via72l0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq7FIR-IiElRNydD8qNd6hd3Wcmf0yq8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361551192288-k8cvnv4m59luh6b8vbmrqpd7via72l0v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
